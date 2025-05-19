@@ -1,0 +1,10 @@
+id,tipe_skenario,pertanyaan,jawaban_ai,jawaban_referensi
+1,happy_path,Apa ibu kota Indonesia?,Jakarta,Jakarta
+2,happy_path,Berapakah 2 + 2?,4,4
+3,edge_case,Apa hasil dari 0 dibagi 0?,Undefined,Undefined
+4,edge_case,Berapakah 1/3 dalam desimal?,0.333,0.333
+5,negative,Apa ibu kota Italia?,Madrid,Roma
+6,happy_path,Siapa presiden Indonesia sekarang?,Joko Widodo,Joko Widodo
+7,paraphrase,Sebutkan kota utama di Jepang?,Tokyo,Tokyo
+8,negative,Siapa penemu listrik?,Thomas Edison,Benjamin Franklin
+9,happy_path,Apa ibu kota Jepang?,Tokyo,Tokyo
